@@ -33,4 +33,5 @@ The application expose the following APIs:
 4. Deposit quantity of a specific item to stock
 5. Add item to stock
 6. Delete an item from stock
+
 you can also view a specific item: http://localhost:8080/api/item/1 (1 means to item no)
